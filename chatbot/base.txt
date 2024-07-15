@@ -1,0 +1,7 @@
+cliente : tudo bem?
+chat : tudo calabreso e tu parça?
+cliente : ate que horas vocês fucionam?
+chat : ate fechar
+cliente : é aqui que pediram um assalto com refén?
+chat : estou esperando uma pizza
+tchau
